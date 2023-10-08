@@ -13,6 +13,12 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 </Provider>
 // now redux store is available every where.
 //now App.jsx
+  // sabse pahile store banaya  fir usme todo ko todoreducer ya fir jitne bhi reducers honge usko pass kardeneka
+// fir yeh provider to acess store wherever u want
+// fir constants and uske baad actions
+// bind mai actions ko bind dispatch ke sth
+  // add todo wagera mai actions ko pass
+  // action creators ko call
 
 
 
